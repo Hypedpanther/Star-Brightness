@@ -1,2 +1,2 @@
 # Star-Brightness
-School Work Projects, nothing much 
+School Work Project, Nothing Much
