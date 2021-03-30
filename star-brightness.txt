@@ -1,0 +1,34 @@
+﻿Proxima Centauri,11.09
+Alpha Centauri A,0.01
+Alpha Centauri B,1.34
+Luhman 16A,10.7
+Sirius B,8.44
+Luyten 726-8A,12.54
+Luyten 726-8B,12.99
+EZ Aquarii A,13.33
+EZ Aquarii B,13.27
+EZ Aquarii C,14.03
+Cygni A,5.21
+Cygni B,6.03
+Procyon A,0.38
+Procyon B,10.7
+Struve A,8.9
+Struve B,9.69
+Groombridge A,8.08
+Groombridge B,11.06
+Epsilon Indi A,4.69
+Epsilon Indi B,12.3
+SCR1845-6357A,17.39
+SCR1845-6357B,13.3
+Kruger 60 A,9.79
+Kruger 60 B,11.41
+Ross 614 A,11.15
+Ross 614 B,14.23
+Wolf 424 A,13.18
+Wolf 424 B,13.17
+G208-44 A,13.46
+G208-45,14.01
+G208-44 B,16.75
+Gliese 412 A,8.77
+Gliese 412 B,14.48
+GJ 1005 A,11.48
